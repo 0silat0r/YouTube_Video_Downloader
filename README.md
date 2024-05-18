@@ -8,4 +8,4 @@ komutunu kullanmanız yeterli olacaktır.<br/>
 Teşekkürler!<br/>
 
 <strong>Program'dan Bir Görünüm</strong><br/>
-![Screenshot from 2024-05-17 21-44-02(https://github.com/cpu-astatine/YouTube_Video_Downloader/assets/87228325/a46b1c5d-9139-4ade-a418-9297daad24fd)
+![Screenshot from 2024-05-17 21-44-02](https://github.com/cpu-astatine/YouTube_Video_Downloader/assets/87228325/c16a687d-f9ee-4b10-97ba-31717eeffeb2)
