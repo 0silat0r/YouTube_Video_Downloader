@@ -19,7 +19,7 @@ program = tkinter.Tk()
 program.geometry('385x280')
 program.title("YouTube Video Downloader")
 
-img = Image.open("youtube-logo.png")
+img = Image.open("pictures/youtube-logo.png")
 resize_img = img.resize((165,140))
 img2 = ImageTk.PhotoImage(resize_img)
 img_lbl = Label(image=img2)
