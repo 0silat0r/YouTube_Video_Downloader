@@ -10,9 +10,10 @@ from PIL import Image, ImageTk
 def video_download():
     print("Lütfen bekleyin kurulum başlatılıyor...")
     link = t1.get(1.0,"end-1c")
-    path = ""
+    path = "Downloads/"
     pytube.YouTube(link).streams.get_highest_resolution().download(path)
     print("Video Indirildi!")
+    print("Indirdiginiz videoyu Downloads klasöründe bulabilirsiniz.")
     t1.delete("1.0","end")
 
 program = tkinter.Tk()
