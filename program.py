@@ -1,4 +1,4 @@
-# Coder: cpu-astatine
+# Coder: 0silat0r
 # Date: 18.05.2024
 
 import tkinter
